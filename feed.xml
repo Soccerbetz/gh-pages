@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Soccerbetz</title>
+    <link href="https://soccerbetz.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://soccerbetz.github.io/gh-pages" />
+    <updated>2022-10-07T17:09:18+02:00</updated>
+    <author>
+        <name>Tristan Wiggill</name>
+    </author>
+    <id>https://soccerbetz.github.io/gh-pages</id>
+
+    <entry>
+        <title>This is a testicle</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html"/>
+        <id>https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html</id>
+
+        <updated>2022-10-07T17:09:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                    vnjsdhghasgh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>vnjsdhghasgh</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

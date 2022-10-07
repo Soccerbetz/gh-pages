@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Soccerbetz",
+    "description": "",
+    "home_page_url": "https://soccerbetz.github.io/gh-pages",
+    "feed_url": "https://soccerbetz.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tristan Wiggill"
+    },
+    "items": [
+        {
+            "id": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html",
+            "url": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html",
+            "title": "This is a testicle",
+            "summary": "vnjsdhghasgh",
+            "content_html": "<p>vnjsdhghasgh</p>",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-07T17:09:18+02:00",
+            "date_modified": "2022-10-07T17:09:18+02:00"
+        }
+    ]
+}
