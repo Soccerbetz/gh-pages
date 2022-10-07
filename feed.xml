@@ -3,21 +3,21 @@
     <title>Soccerbetz</title>
     <link href="https://soccerbetz.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://soccerbetz.github.io/gh-pages" />
-    <updated>2022-10-07T17:09:18+02:00</updated>
+    <updated>2022-10-07T21:10:22+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://soccerbetz.github.io/gh-pages</id>
 
     <entry>
-        <title>This is a testicle</title>
+        <title>This is a test</title>
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html"/>
-        <id>https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html</id>
+        <link href="https://soccerbetz.github.io/gh-pages/this-is-a-testicle/"/>
+        <id>https://soccerbetz.github.io/gh-pages/this-is-a-testicle/</id>
 
-        <updated>2022-10-07T17:09:18+02:00</updated>
+        <updated>2022-10-07T21:10:22+02:00</updated>
             <summary>
                 <![CDATA[
                     vnjsdhghasgh

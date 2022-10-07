@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html",
-            "url": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle.html",
-            "title": "This is a testicle",
+            "id": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle/",
+            "url": "https://soccerbetz.github.io/gh-pages/this-is-a-testicle/",
+            "title": "This is a test",
             "summary": "vnjsdhghasgh",
             "content_html": "<p>vnjsdhghasgh</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2022-10-07T17:09:18+02:00",
-            "date_modified": "2022-10-07T17:09:18+02:00"
+            "date_modified": "2022-10-07T21:10:22+02:00"
         }
     ]
 }

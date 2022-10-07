@@ -1,0 +1,34 @@
+{
+	"name": "Image Decoding",
+	"description": "This plugin allows you to add a decoding attribute to content images.",
+	"license": "GPL-3.0",
+	"author": "TidyCustoms",
+	"version": "1.0.0",
+	"scope": "site",
+	"minimumPubliiVersion": "0.39.0",
+	"usePluginSettingsView": false,
+    "config": [
+    	{
+            "name": "decodingMode",
+            "label": "Decoding attribute",
+            "group": "Configuration",
+            "type": "radio",
+            "value": "async",
+            "options": [
+                {
+                    "label": "async",
+                    "value": "async"
+                },
+                {
+                    "label": "sync",
+                    "value": "sync"
+                },
+                {
+                    "label": "auto",
+                    "value": "auto"
+                }
+            ],
+            "note": "For more details please visit the Useful Angle <a href=\"https://usefulangle.com/post/277/img-decoding-attribute\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">website</a>."
+        }
+    ]
+}
